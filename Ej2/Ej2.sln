@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0-WakeUpYourMind", "Console
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-collectionsAndFiles", "dics\1-collectionsAndFiles.csproj", "{440B9E21-4583-489C-958F-9D08CED4812E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-linq", "linq\2-linq.csproj", "{E70F8CD2-18C9-4B47-8828-16E5E5D8B698}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-linqs", "linq\2-linqs.csproj", "{E70F8CD2-18C9-4B47-8828-16E5E5D8B698}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
