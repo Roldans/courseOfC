@@ -114,13 +114,17 @@ namespace linqs
             persona3.id = 3;
             persona3.name = "name3";
 
-            Persona persona4 = new Persona();
-            persona4.id = 4;
-            persona4.name = "name4";
+            Persona persona4 = new Persona()
+            {
+                id = 4,
+                name = "name4"
+            };
 
-            Persona persona5 = new Persona();
-            persona5.id = 5;
-            persona5.name = "name5";
+            Persona persona5 = new Persona()
+            {
+                id = 5,
+                name = "name5"
+            };
 
             var gente = new List<Persona>
             {
